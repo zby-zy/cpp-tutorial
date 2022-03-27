@@ -16,12 +16,6 @@ C++ is standardized by the International Organization for Standardization (ISO),
 7) Object-oriented programming	
 8) Memory management	
 9) Advanced topics I	
-10) Advanced topics II	
-
-
-
-
-
 
 
 ## Resources
