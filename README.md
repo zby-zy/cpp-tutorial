@@ -1,4 +1,4 @@
-# C++
+# C++ Tutorial
 
 <img src="https://user-images.githubusercontent.com/85934122/156888072-c9b50bd5-63f0-47f5-b0d7-3d908c8127f7.png" width=300>
 C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes". The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Oracle, and IBM, so it is available on many platforms.<br><br>
@@ -15,7 +15,7 @@ C++ is standardized by the International Organization for Standardization (ISO),
 6) Classes	
 7) Object-oriented programming	
 8) Memory management	
-9) Advanced topics I	
+9) Advanced topics 
 
 
 ## Resources
